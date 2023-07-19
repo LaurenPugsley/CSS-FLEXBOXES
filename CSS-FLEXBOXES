@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Flexboxes</title>
+</head>
+
+<body>
+	<div style="display:flex; flex-direction:row; border:solid;">
+		<div style="background:red;">
+		<h2>Box 1</h2>		
+		</div>
+		<div style="background:orange;">
+		<h2>Box 2</h2>
+		</div>
+		<div style="background:yellow;">
+		<h2>Box 3</h3>
+		</div>
+		<div style="background:green;">
+		<h2>Box 4</h4>
+		</div>
+		<div style="background:blue;">
+		<h2>Box 5</h5>
+		</div>
+		<div style="background:purple;">
+		<h2>Box 6</h6>
+		</div>
+</div>
+</body>
+</html>
